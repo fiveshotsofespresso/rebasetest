@@ -1,3 +1,7 @@
+var i = 0;
+var z = 3;
+var u = 2;
+var l = 2;
 var e = 0;
 var j = 0;
 var k = 0;
